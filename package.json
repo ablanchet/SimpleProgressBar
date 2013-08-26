@@ -1,0 +1,24 @@
+{
+  "name": "SimpleProgressBar",
+  "version": "0.1.0",
+  "description": "SimpleProgressBar is a very simple jQuery plugin that provides a way to create a basic progress bar",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "karma-script-launcher": "~0.1.0",
+    "karma-chrome-launcher": "~0.1.0",
+    "karma-firefox-launcher": "~0.1.0",
+    "karma-html2js-preprocessor": "~0.1.0",
+    "karma-requirejs": "~0.1.0",
+    "karma-jasmine": "~0.1.2",
+    "karma-coffee-preprocessor": "~0.1.0",
+    "karma-phantomjs-launcher": "~0.1.0",
+    "karma": "~0.10.2",
+    "karma-qunit": "~0.1.0",
+    "grunt-karma": "~0.6.1",
+    "karma-coverage": "~0.1.0",
+    "grunt-contrib-jshint": "~0.6.3"
+  },
+  "license": "L-GPL"
+}
